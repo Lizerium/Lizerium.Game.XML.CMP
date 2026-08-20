@@ -609,7 +609,7 @@
             </Switch2>
          </MultiLevel>
       </door_A4_lod1021120110318.3db>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <girders_lod1021120110318.3db>
          <VMeshWire include="prison_lod_cmp\girders_lod1.vwd.xml"/>
          <MultiLevel>

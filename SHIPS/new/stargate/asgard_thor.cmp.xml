@@ -338,7 +338,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">208.3, 1.7, -8.5351563</Position>
+                  <Position type="Vector">208.3, 1.7, -8.5351562</Position>
                </HpGun02>
             </Fixed>
             <Revolute>

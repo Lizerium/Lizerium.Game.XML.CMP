@@ -109,7 +109,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-12.259802, 7.4012308, 266.01563</Position>
+                  <Position type="Vector">-12.259802, 7.4012308, 266.01562</Position>
                </HpEngine02>
                <HpEngine03>
                   <Orientation type="Matrix">
@@ -117,7 +117,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-12.256342, -4.1230121, 266.01563</Position>
+                  <Position type="Vector">-12.256342, -4.1230121, 266.01562</Position>
                </HpEngine03>
                <HpEngine04>
                   <Orientation type="Matrix">
@@ -125,7 +125,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">12.290842, 7.5245838, 266.01563</Position>
+                  <Position type="Vector">12.290842, 7.5245838, 266.01562</Position>
                </HpEngine04>
                <HpEngine05>
                   <Orientation type="Matrix">
@@ -133,7 +133,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">12.289207, -4.2777309, 266.01563</Position>
+                  <Position type="Vector">12.289207, -4.2777309, 266.01562</Position>
                </HpEngine05>
                <HpCloak01>
                   <Orientation type="Matrix">

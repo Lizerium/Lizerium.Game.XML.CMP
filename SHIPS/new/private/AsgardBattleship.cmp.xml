@@ -30,7 +30,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0, 17.085938, -284.76563</Position>
+                  <Position type="Vector">0, 17.085938, -284.76562</Position>
                </HpRadar01>
                <HpPilot>
                   <Orientation type="Matrix">
@@ -38,7 +38,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0, 17.085938, -284.76563</Position>
+                  <Position type="Vector">0, 17.085938, -284.76562</Position>
                </HpPilot>
                <HpTractor_Source>
                   <Orientation type="Matrix">

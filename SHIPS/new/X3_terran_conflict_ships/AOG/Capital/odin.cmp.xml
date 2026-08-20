@@ -191,7 +191,7 @@
                       87.422777e-09,  -0.8191520000,  -0.5735763900,
                        0.0000000000,  -0.5735763900,   0.8191520600
                   </Orientation>
-                  <Position type="Vector">-109.32571, -58.241211, 232.57813</Position>
+                  <Position type="Vector">-109.32571, -58.241211, 232.57812</Position>
                </HpCM01>
                <HpCM02>
                   <Orientation type="Matrix">

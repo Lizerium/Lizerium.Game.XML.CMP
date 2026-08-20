@@ -455,7 +455,7 @@
                       14.901161e-09,   0.9848077300,  -0.1736481600,
                       -1.0000000000,   0.0000000000, -59.604645e-09
                   </Orientation>
-                  <Position type="Vector">-47.141891, 34.882813, 32.354935</Position>
+                  <Position type="Vector">-47.141891, 34.882812, 32.354935</Position>
                </HpLTurret05>
                <HpSTurret01>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -477,7 +477,7 @@
                       87.422777e-09,  -1.0000000000,  -0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0.026672, -36.414063, 18.402494</Position>
+                  <Position type="Vector">0.026672, -36.414062, 18.402494</Position>
                </HpSTurret02>
                <HpSTurret03>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -510,7 +510,7 @@
                      -7.1054274e-15,  -0.9999997600, -87.422769e-09,
                        0.9999998800,   0.0000000000,  59.604641e-09
                   </Orientation>
-                  <Position type="Vector">-108.17871, -9.7695313, 98.909363</Position>
+                  <Position type="Vector">-108.17871, -9.7695312, 98.909363</Position>
                </HpSTurret05>
                <HpSTurret06>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -672,7 +672,7 @@
                      -7.1054274e-15,  -0.9999997600,  87.422769e-09,
                       -0.9999998800,   0.0000000000,  59.604641e-09
                   </Orientation>
-                  <Position type="Vector">17.042542, -27.726563, -44.731445</Position>
+                  <Position type="Vector">17.042542, -27.726562, -44.731445</Position>
                </HpLTurret14>
                <HpSTurret10>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -935,7 +935,7 @@
                       59.604645e-09,  178.81393e-09,   0.9999997600,
                        0.9999997600,   0.0000000000,  178.81393e-09
                   </Orientation>
-                  <Position type="Vector">55.677734, -35.476563, 32.037109</Position>
+                  <Position type="Vector">55.677734, -35.476562, 32.037109</Position>
                </HpSTurret08>
             </Revolute>
          </Hardpoints>

@@ -1272,7 +1272,7 @@
             </Switch2>
          </MultiLevel>
       </door_star4_lod1021127115025.3db>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <port_dock_lod1021127115025.3db>
          <VMeshWire include="depot_lod_cmp\port_dock_lod1.vwd.xml"/>
          <MultiLevel>

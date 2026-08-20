@@ -6,7 +6,7 @@
          <data.bases.kusari.ku_harajuku_station_bar.lod0-112.vms include="ku_harajuku_station_bar_cmp\lod0-112.vms.xml"/>
          <data.bases.kusari.ku_harajuku_station_bar.lod0-212.vms include="ku_harajuku_station_bar_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -14,18 +14,18 @@
             <Index type="int">0</Index>
          </Root>
          <Part__lift_1maps name="Part_ lift 1maps">
-            <Object_name name="Object name" type="text">" lift 1maps"</Object_name>
-            <File_name name="File name" type="text">" lift 1maps021210183320.3db"</File_name>
+            <Object_name name="Object name" type="text">lift 1maps</Object_name>
+            <File_name name="File name" type="text">lift 1maps021210183320.3db</File_name>
             <Index type="int">1</Index>
          </Part__lift_1maps>
          <Part__lift_1maps01 name="Part_ lift 1maps01">
-            <Object_name name="Object name" type="text">" lift 1maps01"</Object_name>
-            <File_name name="File name" type="text">" lift 1maps01021210183320.3db"</File_name>
+            <Object_name name="Object name" type="text">lift 1maps01</Object_name>
+            <File_name name="File name" type="text">lift 1maps01021210183320.3db</File_name>
             <Index type="int">2</Index>
          </Part__lift_1maps01>
          <Part__Lift3maps01 name="Part_ Lift3maps01">
-            <Object_name name="Object name" type="text">" Lift3maps01"</Object_name>
-            <File_name name="File name" type="text">" Lift3maps01021210183320.3db"</File_name>
+            <Object_name name="Object name" type="text">Lift3maps01</Object_name>
+            <File_name name="File name" type="text">Lift3maps01021210183320.3db</File_name>
             <Index type="int">3</Index>
          </Part__Lift3maps01>
          <Part_Bridge_seat_2meps01 name="Part_Bridge seat 2meps01">
@@ -58,24 +58,24 @@
             <File_name name="File name" type="text">Elbows 11021210183320.3db</File_name>
             <Index type="int">9</Index>
          </Part_Elbows_11>
-         <Part_Electrical_tube__1 name="Part_Electrical tube  1">
-            <Object_name name="Object name" type="text">Electrical tube  1</Object_name>
-            <File_name name="File name" type="text">Electrical tube  1021210183320.3db</File_name>
+         <Part_Electrical_tube__1 name="Part_Electrical tube 1">
+            <Object_name name="Object name" type="text">Electrical tube 1</Object_name>
+            <File_name name="File name" type="text">Electrical tube 1021210183320.3db</File_name>
             <Index type="int">10</Index>
          </Part_Electrical_tube__1>
-         <Part_Electrical_tube__2 name="Part_Electrical tube  2">
-            <Object_name name="Object name" type="text">Electrical tube  2</Object_name>
-            <File_name name="File name" type="text">Electrical tube  2021210183320.3db</File_name>
+         <Part_Electrical_tube__2 name="Part_Electrical tube 2">
+            <Object_name name="Object name" type="text">Electrical tube 2</Object_name>
+            <File_name name="File name" type="text">Electrical tube 2021210183320.3db</File_name>
             <Index type="int">11</Index>
          </Part_Electrical_tube__2>
-         <Part_Electrical_tube__3 name="Part_Electrical tube  3">
-            <Object_name name="Object name" type="text">Electrical tube  3</Object_name>
-            <File_name name="File name" type="text">Electrical tube  3021210183320.3db</File_name>
+         <Part_Electrical_tube__3 name="Part_Electrical tube 3">
+            <Object_name name="Object name" type="text">Electrical tube 3</Object_name>
+            <File_name name="File name" type="text">Electrical tube 3021210183320.3db</File_name>
             <Index type="int">12</Index>
          </Part_Electrical_tube__3>
-         <Part_Electrical_tube__4 name="Part_Electrical tube  4">
-            <Object_name name="Object name" type="text">Electrical tube  4</Object_name>
-            <File_name name="File name" type="text">Electrical tube  4021210183320.3db</File_name>
+         <Part_Electrical_tube__4 name="Part_Electrical tube 4">
+            <Object_name name="Object name" type="text">Electrical tube 4</Object_name>
+            <File_name name="File name" type="text">Electrical tube 4021210183320.3db</File_name>
             <Index type="int">13</Index>
          </Part_Electrical_tube__4>
          <Part_Holder_1maps01 name="Part_Holder 1maps01">
@@ -432,7 +432,7 @@
             <Fix type="Fix" count="83">
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> " lift 1maps",
+                  <!-- child       --> "lift 1maps",
                   <!-- position    --> 2.5037408, -0.65521449, -4.7060795,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -440,7 +440,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> " lift 1maps01",
+                  <!-- child       --> "lift 1maps01",
                   <!-- position    --> 2.5039058, -0.65521419, 4.7758479,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -448,7 +448,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> " Lift3maps01",
+                  <!-- child       --> "Lift3maps01",
                   <!-- position    --> 3.422997, -2.1352932, 3.887207,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -504,7 +504,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Electrical tube  1",
+                  <!-- child       --> "Electrical tube 1",
                   <!-- position    --> 0.49599811, -0.27300102, 8.4224224,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -512,7 +512,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Electrical tube  2",
+                  <!-- child       --> "Electrical tube 2",
                   <!-- position    --> -0.18719082, -0.18381786, 8.5345697,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -520,7 +520,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Electrical tube  3",
+                  <!-- child       --> "Electrical tube 3",
                   <!-- position    --> 0.49600112, -0.27300537, -0.14182296,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -528,7 +528,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Electrical tube  4",
+                  <!-- child       --> "Electrical tube 4",
                   <!-- position    --> -0.16782741, -0.27382541, -0.16199352,
                   <!-- orientation -->   1.0000000000,  197.65982e-24,  423.51647e-24,
                                        -197.65982e-24,   1.0000000000, -2.4286023e-21,
@@ -1617,7 +1617,7 @@
             </VMeshRef>
          </VMeshPart>
       </Root_bar021210183320.3db>
-      <_lift_1maps021210183320.3db name=" lift 1maps021210183320.3db">
+      <_lift_1maps021210183320.3db name="lift 1maps021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1635,7 +1635,7 @@
             </VMeshRef>
          </VMeshPart>
       </_lift_1maps021210183320.3db>
-      <_lift_1maps01021210183320.3db name=" lift 1maps01021210183320.3db">
+      <_lift_1maps01021210183320.3db name="lift 1maps01021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1653,7 +1653,7 @@
             </VMeshRef>
          </VMeshPart>
       </_lift_1maps01021210183320.3db>
-      <_Lift3maps01021210183320.3db name=" Lift3maps01021210183320.3db">
+      <_Lift3maps01021210183320.3db name="Lift3maps01021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1779,7 +1779,7 @@
             </VMeshRef>
          </VMeshPart>
       </Elbows_11021210183320.3db>
-      <Electrical_tube__1021210183320.3db name="Electrical tube  1021210183320.3db">
+      <Electrical_tube__1021210183320.3db name="Electrical tube 1021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1797,7 +1797,7 @@
             </VMeshRef>
          </VMeshPart>
       </Electrical_tube__1021210183320.3db>
-      <Electrical_tube__2021210183320.3db name="Electrical tube  2021210183320.3db">
+      <Electrical_tube__2021210183320.3db name="Electrical tube 2021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1815,7 +1815,7 @@
             </VMeshRef>
          </VMeshPart>
       </Electrical_tube__2021210183320.3db>
-      <Electrical_tube__3021210183320.3db name="Electrical tube  3021210183320.3db">
+      <Electrical_tube__3021210183320.3db name="Electrical tube 3021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,
@@ -1833,7 +1833,7 @@
             </VMeshRef>
          </VMeshPart>
       </Electrical_tube__3021210183320.3db>
-      <Electrical_tube__4021210183320.3db name="Electrical tube  4021210183320.3db">
+      <Electrical_tube__4021210183320.3db name="Electrical tube 4021210183320.3db">
          <VMeshPart>
             <VMeshRef type="VMeshRef">
                <!-- header size  --> 60,

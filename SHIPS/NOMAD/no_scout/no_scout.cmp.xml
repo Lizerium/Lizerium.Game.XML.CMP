@@ -7,7 +7,7 @@
          <nomad.no_elite.no_elite.lod1-112.vms include="no_scout_cmp\lod1-112.vms.xml"/>
          <nomad.no_elite.no_elite.lod2-112.vms include="no_scout_cmp\lod2-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">March 5 2013  21:19:50</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">March 5 2013 21:19:50</Exporter_Version>
       <Animation>
          <Script>
             <Sc_extend_wing name="Sc_extend wing">
@@ -16,13 +16,14 @@
                   <Child_name name="Child name" type="text">Spike1_lod1</Child_name>
                   <Channel>
                      <Header type="Header">
-                        <!-- count    --> 2,
+                        <!-- count    --> 3,
                         <!-- interval --> Explicit,
                         <!-- flags    --> 0x1
                      </Header>
-                     <Frames type="Frames" count="2">
+                     <Frames type="Frames" count="3">
                           0.0000000000:   0.0000000000
-                          5.0000000000:  -0.7853900200
+                          2.0000000000:  -0.7853900200
+                          6.0000000000:   0.0000000000
                      </Frames>
                   </Channel>
                </Joint_map_0>
@@ -31,13 +32,14 @@
                   <Child_name name="Child name" type="text">Spike2_lod1</Child_name>
                   <Channel>
                      <Header type="Header">
-                        <!-- count    --> 2,
+                        <!-- count    --> 3,
                         <!-- interval --> Explicit,
                         <!-- flags    --> 0x1
                      </Header>
-                     <Frames type="Frames" count="2">
+                     <Frames type="Frames" count="3">
                           0.0000000000:   0.0000000000
-                          5.0000000000:  -0.7853900200
+                          2.0000000000:  -0.7853900200
+                          6.0000000000:   0.0000000000
                      </Frames>
                   </Channel>
                </Joint_map_1>
@@ -46,13 +48,14 @@
                   <Child_name name="Child name" type="text">Spike3_lod1</Child_name>
                   <Channel>
                      <Header type="Header">
-                        <!-- count    --> 2,
+                        <!-- count    --> 3,
                         <!-- interval --> Explicit,
                         <!-- flags    --> 0x1
                      </Header>
-                     <Frames type="Frames" count="2">
+                     <Frames type="Frames" count="3">
                           0.0000000000:   0.0000000000
-                          5.0000000000:  -0.7853900200
+                          2.0000000000:  -0.7853900200
+                          6.0000000000:   0.0000000000
                      </Frames>
                   </Channel>
                </Joint_map_2>

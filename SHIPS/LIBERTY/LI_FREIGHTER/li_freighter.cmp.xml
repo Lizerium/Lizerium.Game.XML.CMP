@@ -553,7 +553,7 @@
             </Switch2>
          </MultiLevel>
       </Engine02_lod1021203111952.3db>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <glass_lod1021203111952.3db>
          <VMeshWire include="li_freighter_cmp\glass_lod1.vwd.xml"/>
          <MultiLevel>

@@ -294,7 +294,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">26.051146, -49.226563, -58.81</Position>
+                  <Position type="Vector">26.051146, -49.226562, -58.81</Position>
                </HpRunningLight06>
                <HpRunningLight07>
                   <Orientation type="Matrix">
@@ -310,7 +310,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">11.391663, 28.195313, 42.133423</Position>
+                  <Position type="Vector">11.391663, 28.195312, 42.133423</Position>
                </HpRunningLight08>
                <HpRunningLight11>
                   <Orientation type="Matrix">

@@ -6,7 +6,7 @@
          <data.bases.kusari.ku_junyo_waterscape.lod0-112.vms include="ku_junyo_waterscape_cmp\lod0-112.vms.xml"/>
          <data.bases.kusari.ku_junyo_waterscape.lod0-212.vms include="ku_junyo_waterscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -382,7 +382,7 @@
                <part>
                   <!-- parent      --> "Root",
                   <!-- child       --> "LightMount26",
-                  <!-- position    --> 94.945313, -0.0034075179, -47.487267,
+                  <!-- position    --> 94.945312, -0.0034075179, -47.487267,
                   <!-- orientation -->  -0.9483236100,   0.3173048500,  27.952515e-09,
                                         59.545442e-09,  89.868884e-09,   1.0000000000,
                                          0.3173048500,   0.9483236100, -104.11884e-09

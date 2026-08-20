@@ -6,7 +6,7 @@
          <data.bases.rheinland.rh_03_stuttgart_cityscape.lod0-112.vms include="rh_03_stuttgart_cityscape_cmp\lod0-112.vms.xml"/>
          <data.bases.rheinland.rh_03_stuttgart_cityscape.lod0-212.vms include="rh_03_stuttgart_cityscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -299,7 +299,7 @@
                                        -710.77923e-18,   1.0000000000,  1.9106857e-15,
                                         710.77923e-18, -1.9106857e-15,   1.0000000000,
                   <!-- axis        -->   0.9998791800,   0.0155429640, -20.461524e-06,
-                  <!-- min, max    --> -862.32813, 402.21875
+                  <!-- min, max    --> -862.32812, 402.21875
                </part>
                <part>
                   <!-- parent      --> "Root",
@@ -1215,7 +1215,7 @@
                          18.1333350000:   535.4104000000
                          18.2000000000:   541.0308800000
                          18.4666670000:   563.5203200000
-                         18.5333350000:   569.1406300000
+                         18.5333350000:   569.1406200000
                          18.8666670000:   597.2524400000
                          18.9333340000:   602.8728600000
                          19.2666680000:   630.9846800000
@@ -3976,7 +3976,7 @@
                           914.2628200000
                           918.3255600000
                           922.3903200000
-                          926.4531300000
+                          926.4531200000
                           930.5158700000
                           934.5806300000
                           938.6434300000
@@ -4346,7 +4346,7 @@
                           520.2325400000
                           531.7442000000
                           543.2539100000
-                          554.7656300000
+                          554.7656200000
                           566.2773400000
                           577.7869900000
                           589.2987100000

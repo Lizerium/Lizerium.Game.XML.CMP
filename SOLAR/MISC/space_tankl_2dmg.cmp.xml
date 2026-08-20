@@ -43,7 +43,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Aug  8 2002 17:09:32</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Aug 8 2002 17:09:32</Exporter_Version>
       <framel2_lod1020809105347.3db>
          <VMeshWire include="space_tankl_2dmg_cmp\framel2_lod1.vwd.xml"/>
          <MultiLevel>

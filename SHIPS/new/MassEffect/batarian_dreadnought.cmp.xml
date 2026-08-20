@@ -705,7 +705,7 @@
                       -0.9999998800,  59.604645e-09,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">41.385986, 10.195313, 129.50069</Position>
+                  <Position type="Vector">41.385986, 10.195312, 129.50069</Position>
                </HpTurret06>
                <HpTurret09>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -716,7 +716,7 @@
                       -0.0000000000,   1.0000000000,   0.0000000000,
                       -0.9999998800,  -0.0000000000,  59.604645e-09
                   </Orientation>
-                  <Position type="Vector">-26.010376, 15.476563, -61.19471</Position>
+                  <Position type="Vector">-26.010376, 15.476562, -61.19471</Position>
                </HpTurret09>
                <HpTurret10>
                   <Axis type="Vector">0, 1, 0</Axis>

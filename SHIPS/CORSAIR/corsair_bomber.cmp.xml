@@ -418,7 +418,7 @@
                   </Orientation>
                </HpRunningLight08>
                <HpShield01>
-                  <Position type="Vector">0, -0.26757813, -1.0429686</Position>
+                  <Position type="Vector">0, -0.26757812, -1.0429686</Position>
                   <Orientation type="Matrix">
                       -1.0000000000, -54.016709e-09, -394.42966e-09,
                      -8.3819032e-09,  -0.9873879000,   0.1583211400,

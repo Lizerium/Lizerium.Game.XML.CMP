@@ -15,7 +15,7 @@
             </MADeltas>
          </banners.avi>
       </MaterialAnim>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -1711,7 +1711,7 @@
                          -751.5971700000
                          -756.2368800000
                          -760.8760400000
-                         -765.5156300000
+                         -765.5156200000
                          -770.1553300000
                          -774.7949800000
                          -779.4340800000
@@ -3084,7 +3084,7 @@
                           927.2782000000
                           937.3572400000
                           947.4367700000
-                          957.5156300000
+                          957.5156200000
                           967.5946700000
                           977.6737100000
                           987.7531100000

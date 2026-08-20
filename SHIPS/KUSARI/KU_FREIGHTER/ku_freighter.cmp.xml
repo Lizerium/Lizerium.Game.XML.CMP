@@ -273,7 +273,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <glass_lod1030107115314.3db>
          <VMeshWire include="ku_freighter_cmp\glass_lod1.vwd.xml"/>
          <MultiLevel>

@@ -784,28 +784,72 @@
                   </Orientation>
                   <Position type="Vector">-4.6578879, 10.197857, -11.742566</Position>
                </HpTurret28>
-               <HpTurret29>
+               <HpB01>
                   <Axis type="Vector">0, 1, 0</Axis>
-                  <Max type="float">0.78539819</Max>
-                  <Min type="float">-0.78539819</Min>
+                  <Max type="float">0</Max>
+                  <Min type="float">0</Min>
                   <Orientation type="Matrix">
-                      -0.0090880673,   0.1734101900,  -0.9848076100,
-                      -0.0515408400,   0.9834581600,   0.1736481600,
-                       0.9986294500,   0.0523359590,   0.0000000000
+                       0.9063078200,  44.703484e-09,   0.4226182400,
+                       0.4226182100, -7.4505806e-09,  -0.9063077000,
+                       0.0000000000,   0.9999998800, -18.626451e-09
                   </Orientation>
-                  <Position type="Vector">4.642128, 10.200256, -11.705955</Position>
-               </HpTurret29>
-               <HpTurret30>
+                  <Position type="Vector">-21.411116, 3.7825191, -20.49579</Position>
+               </HpB01>
+               <HpB02>
+                  <Axis type="Vector">0, 1, 0</Axis>
+                  <Max type="float">0</Max>
+                  <Min type="float">0</Min>
+                  <Orientation type="Matrix">
+                       0.9063078200, -44.703484e-09,  -0.4226182400,
+                      -0.4226182100, -7.4505806e-09,  -0.9063077000,
+                       0.0000000000,   0.9999998800, -18.626451e-09
+                  </Orientation>
+                  <Position type="Vector">21.372028, 3.7856121, -20.57119</Position>
+               </HpB02>
+               <HpA01>
                   <Axis type="Vector">0, 1, 0</Axis>
                   <Max type="float">3.1415927</Max>
                   <Min type="float">-3.1415927</Min>
                   <Orientation type="Matrix">
-                       1.0000000000,   0.0000000000,  -0.0000000000,
-                      -0.0000000000,   0.9981347900,  -0.0610485410,
-                       0.0000000000,   0.0610485410,   0.9981347900
+                      59.604645e-09,  -0.9999998800,  -0.0000000000,
+                       0.9999998800,  59.604645e-09,   0.0000000000,
+                       0.0000000000,  -0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0, 10.554881, -3.4529319</Position>
-               </HpTurret30>
+                  <Position type="Vector">-26.59318, 2.4338751, -16.777761</Position>
+               </HpA01>
+               <HpA02>
+                  <Axis type="Vector">0, 1, 0</Axis>
+                  <Max type="float">3.1415927</Max>
+                  <Min type="float">-3.1415927</Min>
+                  <Orientation type="Matrix">
+                      59.604645e-09,   0.9999998800,   0.0000000000,
+                      -0.9999998800,  59.604645e-09,   0.0000000000,
+                       0.0000000000,   0.0000000000,   1.0000000000
+                  </Orientation>
+                  <Position type="Vector">26.600977, 2.4356229, -16.78615</Position>
+               </HpA02>
+               <HpMiningLaser01>
+                  <Axis type="Vector">0, 1, 0</Axis>
+                  <Max type="float">3.1415927</Max>
+                  <Min type="float">-3.1415927</Min>
+                  <Orientation type="Matrix">
+                      59.604645e-09,  -0.9999998800,  -0.0000000000,
+                       0.9999998800,  59.604645e-09,   0.0000000000,
+                       0.0000000000,  -0.0000000000,   1.0000000000
+                  </Orientation>
+                  <Position type="Vector">-26.592222, 2.4337969, -16.777771</Position>
+               </HpMiningLaser01>
+               <HpMiningLaser02>
+                  <Axis type="Vector">0, 1, 0</Axis>
+                  <Max type="float">3.1415927</Max>
+                  <Min type="float">-3.1415927</Min>
+                  <Orientation type="Matrix">
+                      59.604645e-09,   0.9999998800,   0.0000000000,
+                      -0.9999998800,  59.604645e-09,   0.0000000000,
+                       0.0000000000,   0.0000000000,   1.0000000000
+                  </Orientation>
+                  <Position type="Vector">26.602789, 2.433404, -16.775421</Position>
+               </HpMiningLaser02>
             </Revolute>
          </Hardpoints>
          <MultiLevel>

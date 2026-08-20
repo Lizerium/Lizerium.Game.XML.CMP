@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.bases.generic.cv_lab.lod0-112.vms include="cv_lab_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -42,8 +42,8 @@
             <File_name name="File name" type="text">Svitok 01021208150451.3db</File_name>
             <Index type="int">6</Index>
          </Part_Svitok_01>
-         <Part_Svetilnik_ name="Part_Svetilnik ">
-            <Object_name name="Object name" type="text">Svetilnik </Object_name>
+         <Part_Svetilnik_ name="Part_Svetilnik">
+            <Object_name name="Object name" type="text">Svetilnik</Object_name>
             <File_name name="File name" type="text">Svetilnik 021208150451.3db</File_name>
             <Index type="int">7</Index>
          </Part_Svetilnik_>
@@ -107,8 +107,8 @@
             <File_name name="File name" type="text">Pol 03021208150451.3db</File_name>
             <Index type="int">19</Index>
          </Part_Pol_03>
-         <Part_Mal_instr_ name="Part_Mal_instr ">
-            <Object_name name="Object name" type="text">Mal_instr </Object_name>
+         <Part_Mal_instr_ name="Part_Mal_instr">
+            <Object_name name="Object name" type="text">Mal_instr</Object_name>
             <File_name name="File name" type="text">Mal_instr 021208150451.3db</File_name>
             <Index type="int">20</Index>
          </Part_Mal_instr_>
@@ -174,7 +174,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Svetilnik ",
+                  <!-- child       --> "Svetilnik",
                   <!-- position    --> 0.0047569238, 3.6150751, -0.025462372,
                   <!-- orientation -->   1.0000000000,  105.87912e-24,  409.41805e-24,
                                        -105.87912e-24,   1.0000000000,  1.0720261e-21,
@@ -278,7 +278,7 @@
                </part>
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Mal_instr ",
+                  <!-- child       --> "Mal_instr",
                   <!-- position    --> -0.34538007, 1.0101793, -0.025426185,
                   <!-- orientation -->   0.9975640800,   0.0697564710,  2.5658167e-09,
                                         -0.0697564710,   0.9975640800,  25.433629e-09,

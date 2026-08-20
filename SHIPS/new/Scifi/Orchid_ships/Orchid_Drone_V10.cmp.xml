@@ -10,8 +10,7 @@
             <Fix type="Fix" count="1">
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> " 
-Orchid_Drone_V10_lod1",
+                  <!-- child       --> "Orchid_Drone_V10_lod1",
                   <!-- position    --> 0, 0, 0,
                   <!-- orientation -->   1.0000000000,   0.0000000000,   0.0000000000,
                                          0.0000000000,   1.0000000000,   0.0000000000,
@@ -24,13 +23,10 @@ Orchid_Drone_V10_lod1",
             <Index type="int">0</Index>
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
-         <Part___Orchid_Drone_V10_lod1 name="Part_ 
-Orchid_Drone_V10_lod1">
-            <File_name name="File name" type="text">" 
-Orchid_Drone_V10_lod1.3db"</File_name>
+         <Part___Orchid_Drone_V10_lod1 name="Part_ Orchid_Drone_V10_lod1">
+            <File_name name="File name" type="text">Orchid_Drone_V10_lod1.3db</File_name>
             <Index type="int">1</Index>
-            <Object_name name="Object name" type="text">" 
-Orchid_Drone_V10_lod1"</Object_name>
+            <Object_name name="Object name" type="text">Orchid_Drone_V10_lod1</Object_name>
          </Part___Orchid_Drone_V10_lod1>
       </Cmpnd>
       <Orchid_Drone_V10_root_lod1.3db>
@@ -203,8 +199,7 @@ Orchid_Drone_V10_lod1"</Object_name>
             </Fixed>
          </Hardpoints>
       </Orchid_Drone_V10_root_lod1.3db>
-      <__Orchid_Drone_V10_lod1.3db name=" 
-Orchid_Drone_V10_lod1.3db">
+      <__Orchid_Drone_V10_lod1.3db name="Orchid_Drone_V10_lod1.3db">
          <MultiLevel>
             <Level0>
                <VMeshPart>

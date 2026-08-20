@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.bases.kusari.ku_sanctum_conference.lod0-212.vms include="ku_sanctum_conference_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

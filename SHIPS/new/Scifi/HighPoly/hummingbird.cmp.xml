@@ -375,7 +375,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">23.013611, 14.225403, -37.882813</Position>
+                  <Position type="Vector">23.013611, 14.225403, -37.882812</Position>
                </HpLaserB01>
                <HpLaserB02>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -408,7 +408,7 @@
                        0.0000000000,   1.0000000000,  -0.0000000000,
                      -87.422777e-09,   0.0000000000,  -1.0000000000
                   </Orientation>
-                  <Position type="Vector">94.645264, 35.664063, 24.744629</Position>
+                  <Position type="Vector">94.645264, 35.664062, 24.744629</Position>
                </HpLaserB05>
                <HpLaserB06>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -430,7 +430,7 @@
                        0.0000000000,   1.0000000000,  -0.0000000000,
                      -87.422777e-09,   0.0000000000,  -1.0000000000
                   </Orientation>
-                  <Position type="Vector">0.086730957, -20.725769, 67.570313</Position>
+                  <Position type="Vector">0.086730957, -20.725769, 67.570312</Position>
                </HpLaserB07>
                <HpC01>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -511,7 +511,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">10.924889, 13.1875, -70.382813</Position>
+                  <Position type="Vector">10.924889, 13.1875, -70.382812</Position>
                </HpLaserA01>
                <HpLaserA02>
                   <Axis type="Vector">0, 1, 0</Axis>

@@ -82,7 +82,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Aug  8 2002 17:09:32</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Aug 8 2002 17:09:32</Exporter_Version>
       <tankl4x4_1_lod1020809105400.3db>
          <VMeshWire include="space_tankl4x4_dmg_cmp\tankl4x4_1_lod1.vwd.xml"/>
          <MultiLevel>

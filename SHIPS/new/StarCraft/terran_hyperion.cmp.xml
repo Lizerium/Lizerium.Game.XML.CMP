@@ -1099,7 +1099,7 @@
                       87.422777e-09,  -1.0000000000,  -0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0.015441895, -45.789063, 36.345688</Position>
+                  <Position type="Vector">0.015441895, -45.789062, 36.345688</Position>
                </HpTurret30>
                <HpT01>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -1202,7 +1202,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-0.055664063, -0.93908691, 189.17627</Position>
+                  <Position type="Vector">-0.055664062, -0.93908691, 189.17627</Position>
                </HpEngine03>
                <HpEngine04>
                   <Orientation type="Matrix">
@@ -1484,7 +1484,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-0.3677063, 9.1051025, -166.32813</Position>
+                  <Position type="Vector">-0.3677063, 9.1051025, -166.32812</Position>
                </HpAGun01>
                <HpAGun02>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -1495,7 +1495,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-0.31790161, 9.0552368, -166.32813</Position>
+                  <Position type="Vector">-0.31790161, 9.0552368, -166.32812</Position>
                </HpAGun02>
                <HpBGun01>
                   <Axis type="Vector">0, 1, 0</Axis>

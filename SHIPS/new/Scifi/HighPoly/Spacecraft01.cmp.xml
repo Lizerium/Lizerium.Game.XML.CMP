@@ -651,7 +651,7 @@
                       59.604645e-09,   0.8191521200,   0.5735763300,
                        0.9999998200, -29.802322e-09,  59.604645e-09
                   </Orientation>
-                  <Position type="Vector">23.007813, -20.574219, 24.308212</Position>
+                  <Position type="Vector">23.007812, -20.574219, 24.308212</Position>
                </HpTorpedo04>
                <HpTorpedo05>
                   <Axis type="Vector">0, 1, 0</Axis>

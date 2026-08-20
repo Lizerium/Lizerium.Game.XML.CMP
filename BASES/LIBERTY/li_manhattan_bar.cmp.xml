@@ -6,7 +6,7 @@
          <data.bases.liberty.li_manhattan_bar.lod0-112.vms include="li_manhattan_bar_cmp\lod0-112.vms.xml"/>
          <data.bases.liberty.li_manhattan_bar.lod0-212.vms include="li_manhattan_bar_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

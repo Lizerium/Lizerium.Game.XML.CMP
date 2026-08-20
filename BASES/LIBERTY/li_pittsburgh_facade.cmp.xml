@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.bases.liberty.li_pittsburgh_facade.lod0-112.vms include="li_pittsburgh_facade_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Jan  9 2002 18:51:48</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Jan 9 2002 18:51:48</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

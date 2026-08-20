@@ -30,7 +30,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Aug  8 2002 17:09:32</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Aug 8 2002 17:09:32</Exporter_Version>
       <panel_lod1020814115658.3db>
          <VMeshWire include="space_solar_pnl_cmp\panel_lod1.vwd.xml"/>
          <MultiLevel>

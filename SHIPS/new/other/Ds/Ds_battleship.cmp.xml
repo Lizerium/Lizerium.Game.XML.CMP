@@ -470,7 +470,7 @@
                       -0.6427876400,  -0.7660443800,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">98.175049, -39.882813, 302.42355</Position>
+                  <Position type="Vector">98.175049, -39.882812, 302.42355</Position>
                </HpTurret20>
             </Revolute>
          </Hardpoints>

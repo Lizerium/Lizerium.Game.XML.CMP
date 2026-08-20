@@ -731,7 +731,7 @@
                       87.422777e-09,  -1.0000000000,  -0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">29.942139, -28.695313, 81.656624</Position>
+                  <Position type="Vector">29.942139, -28.695312, 81.656624</Position>
                </HpTorpedo05>
                <HpTorpedo06>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -1028,7 +1028,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">142.25128, -13.738495, 952.70313</Position>
+                  <Position type="Vector">142.25128, -13.738495, 952.70312</Position>
                </HpEngine04>
                <HpEngine05>
                   <Orientation type="Matrix">

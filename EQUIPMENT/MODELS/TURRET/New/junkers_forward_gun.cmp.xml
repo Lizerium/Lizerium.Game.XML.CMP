@@ -98,7 +98,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0, 23.920311, -51.257813</Position>
+                  <Position type="Vector">0, 23.920311, -51.257812</Position>
                </HpFire01>
             </Fixed>
          </Hardpoints>

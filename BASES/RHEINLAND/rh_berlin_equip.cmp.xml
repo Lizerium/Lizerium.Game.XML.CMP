@@ -6,7 +6,7 @@
          <data.bases.rheinland.rh_berlin_equip.lod0-112.vms include="rh_berlin_equip_cmp\lod0-112.vms.xml"/>
          <data.bases.rheinland.rh_berlin_equip.lod0-212.vms include="rh_berlin_equip_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

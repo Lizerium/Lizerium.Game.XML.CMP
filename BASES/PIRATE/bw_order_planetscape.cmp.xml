@@ -6,7 +6,7 @@
          <data.bases.pirate.bw_order_planetscape.lod0-112.vms include="bw_order_planetscape_cmp\lod0-112.vms.xml"/>
          <data.bases.pirate.bw_order_planetscape.lod0-212.vms include="bw_order_planetscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -605,9 +605,9 @@
             <Dt_name type="text">order base_concrete base 2.tga021126124128</Dt_name>
             <Dt_flags type="int">0x40</Dt_flags>
          </order_base_concrete_base_2.tga021126124128>
-         <order_base_Tunnel__panel_4.tga021126124128 name="order base_Tunnel  panel 4.tga021126124128">
+         <order_base_Tunnel__panel_4.tga021126124128 name="order base_Tunnel panel 4.tga021126124128">
             <Type type="text">DcDt</Type>
-            <Dt_name type="text">order base_Tunnel  panel 4.tga021126124128</Dt_name>
+            <Dt_name type="text">order base_Tunnel panel 4.tga021126124128</Dt_name>
             <Dt_flags type="int">0x40</Dt_flags>
          </order_base_Tunnel__panel_4.tga021126124128>
          <order_base_Snow_Grate.tga021126124128 name="order base_Snow Grate.tga021126124128">
@@ -721,7 +721,7 @@
          <order_base_Snow_Grate.tga021126124128 name="order base_Snow Grate.tga021126124128">
             <MIPS type="file" filename="bw_order_planetscape_cmp\order base_Snow Grate.dds"/>
          </order_base_Snow_Grate.tga021126124128>
-         <order_base_Tunnel__panel_4.tga021126124128 name="order base_Tunnel  panel 4.tga021126124128">
+         <order_base_Tunnel__panel_4.tga021126124128 name="order base_Tunnel panel 4.tga021126124128">
             <MIPS type="file" filename="bw_order_planetscape_cmp\order base_Tunnel  panel 4.dds"/>
          </order_base_Tunnel__panel_4.tga021126124128>
          <order_base_concrete_base_2.tga021126124128 name="order base_concrete base 2.tga021126124128">

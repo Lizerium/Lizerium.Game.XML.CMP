@@ -1023,7 +1023,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.9999998800,   0.0000000000,  59.604645e-09
                   </Orientation>
-                  <Position type="Vector">17.293945, 25.070313, -43.04718</Position>
+                  <Position type="Vector">17.293945, 25.070312, -43.04718</Position>
                </HpMissile02>
                <HpMissile03>
                   <Orientation type="Matrix">

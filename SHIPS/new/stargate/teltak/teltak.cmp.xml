@@ -85,7 +85,7 @@
                       -0.1814858800,  -0.9736064700,   0.1383958200,
                        0.0251168850,   0.1347430600,   0.9808467000
                   </Orientation>
-                  <Position type="Vector">2.8942063, -5.4882813, 29.409346</Position>
+                  <Position type="Vector">2.8942063, -5.4882812, 29.409346</Position>
                </HpCM01>
                <HpCM02>
                   <Orientation type="Matrix">

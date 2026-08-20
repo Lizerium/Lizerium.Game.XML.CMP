@@ -321,7 +321,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">0.67382813, 3829.0938, 0.0012207031</Position>
+                  <Position type="Vector">0.67382812, 3829.0938, 0.0012207031</Position>
                </HpRunningLight01>
                <HpDockCamA>
                   <Orientation type="Matrix">

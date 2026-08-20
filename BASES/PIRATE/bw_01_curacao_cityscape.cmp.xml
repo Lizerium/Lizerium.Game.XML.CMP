@@ -6,7 +6,7 @@
          <data.bases.pirate.bw_01_curacao_cityscape.lod0-112.vms include="bw_01_curacao_cityscape_cmp\lod0-112.vms.xml"/>
          <data.bases.pirate.bw_01_curacao_cityscape.lod0-212.vms include="bw_01_curacao_cityscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -2510,7 +2510,7 @@
                          -298.8376200000
                          -296.6989100000
                          -294.5918900000
-                         -292.5156300000
+                         -292.5156200000
                          -290.4702800000
                          -288.4550200000
                          -286.4697600000

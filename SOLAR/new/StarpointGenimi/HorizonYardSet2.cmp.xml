@@ -266,7 +266,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">399.48438, 8.9101563, 409.63672</Position>
+                  <Position type="Vector">399.48438, 8.9101562, 409.63672</Position>
                </HpRunningLight02>
             </Fixed>
          </Hardpoints>

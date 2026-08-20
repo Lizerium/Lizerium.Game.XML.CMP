@@ -506,7 +506,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-27.205973, 16.191574, 18.226563</Position>
+                  <Position type="Vector">-27.205973, 16.191574, 18.226562</Position>
                </HpEngine02>
                <HpEngine03>
                   <Orientation type="Matrix">

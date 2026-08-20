@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.bases.generic.cv_dig_site_spruage.lod0-112.vms include="cv_dig_site_spruage_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Mar  4 2002 16:05:38</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Mar 4 2002 16:05:38</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

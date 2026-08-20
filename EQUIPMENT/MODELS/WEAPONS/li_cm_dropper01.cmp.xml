@@ -7,7 +7,7 @@
          <data.equipment.models.weapons.li_cm_dropper01.lod1-112.vms include="li_cm_dropper01_cmp\lod1-112.vms.xml"/>
          <data.equipment.models.weapons.li_cm_dropper01.lod2-112.vms include="li_cm_dropper01_cmp\lod2-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Mar  4 2002 16:05:38</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Mar 4 2002 16:05:38</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

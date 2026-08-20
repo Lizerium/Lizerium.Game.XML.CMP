@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.bases.liberty.li_rockefeller_station_deck.lod0-112.vms include="li_rockefeller_station_deck_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Mar  4 2002 16:05:38</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Mar 4 2002 16:05:38</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>

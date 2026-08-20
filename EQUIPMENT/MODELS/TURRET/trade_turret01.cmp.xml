@@ -5,7 +5,7 @@
       <VMeshLibrary>
          <data.equipment.models.turret.trade_turret01.lod0-112.vms include="trade_turret01_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Aug  4 2000 17:21:54</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Aug 4 2000 17:21:54</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -21,7 +21,7 @@
             <Pris type="Rev" count="1">
                <part>
                   <!-- parent      --> "Gun01",
-                  <!-- child       --> "Barrel01	",
+                  <!-- child       --> "Barrel01",
                   <!-- position    --> -4.8585806, -5.6006056e-6, -5.9441667,
                   <!-- offset      --> 0, 0, 0,
                   <!-- orientation -->   1.0000000000,  51.619036e-09,  71.681107e-09,
@@ -51,7 +51,7 @@
             <Sc_fire>
                <Joint_map_0 name="Joint map 0">
                   <Parent_name name="Parent name" type="text">Gun01</Parent_name>
-                  <Child_name name="Child name" type="text">Barrel01	</Child_name>
+                  <Child_name name="Child name" type="text">Barrel01</Child_name>
                   <Channel>
                      <Header type="Header">
                         <!-- count    --> 5,

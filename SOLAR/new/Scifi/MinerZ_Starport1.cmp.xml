@@ -270,7 +270,7 @@
                   <Max type="float">1.5707964</Max>
                </HpTurret06>
                <HpTurret07>
-                  <Position type="Vector">-531.01563, -102.13836, 0.822411</Position>
+                  <Position type="Vector">-531.01562, -102.13836, 0.822411</Position>
                   <Orientation type="Matrix">
                       536.44180e-09, -150.99579e-09,   1.0000000000,
                      -14.210855e-15,  -0.9999997600, -150.99576e-09,

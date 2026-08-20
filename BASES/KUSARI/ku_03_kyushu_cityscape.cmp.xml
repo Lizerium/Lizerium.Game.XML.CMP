@@ -161,7 +161,7 @@
             </MAKeys>
          </new_banners030107173323>
       </MaterialAnim>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -2027,7 +2027,7 @@
                   </Orientation>
                </HpLightK05>
                <HpLightK06>
-                  <Position type="Vector">209.46945, 95.507813, -824.38782</Position>
+                  <Position type="Vector">209.46945, 95.507812, -824.38782</Position>
                   <Orientation type="Matrix">
                        1.0000000000,  1.6580909e-15,  5.4473366e-15,
                      -1.6580912e-15,   1.0000000000,  59.604659e-09,
@@ -2035,7 +2035,7 @@
                   </Orientation>
                </HpLightK06>
                <HpLightK07>
-                  <Position type="Vector">218.1882, 95.507813, -820.00403</Position>
+                  <Position type="Vector">218.1882, 95.507812, -820.00403</Position>
                   <Orientation type="Matrix">
                        1.0000000000,  1.6580909e-15,  5.4473366e-15,
                      -1.6580912e-15,   1.0000000000,  59.604659e-09,

@@ -6,7 +6,7 @@
          <data.bases.pirate.bw_02_ochorios_cityscape.lod0-112.vms include="bw_02_ochorios_cityscape_cmp\lod0-112.vms.xml"/>
          <data.bases.pirate.bw_02_ochorios_cityscape.lod0-212.vms include="bw_02_ochorios_cityscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -1707,7 +1707,7 @@
                          2515.4194000000
                          2525.9031000000
                          2536.7278000000
-                         2547.9063000000
+                         2547.9062000000
                          2559.4512000000
                          2571.3760000000
                          2583.6926000000
@@ -3244,7 +3244,7 @@
                         -1459.7684000000
                         -1452.1163000000
                         -1444.5800000000
-                        -1437.1563000000
+                        -1437.1562000000
                         -1429.8418000000
                         -1422.6334000000
                         -1415.5282000000

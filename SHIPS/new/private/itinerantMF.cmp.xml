@@ -332,7 +332,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">19.049589, 49.623058, 81.726563</Position>
+                  <Position type="Vector">19.049589, 49.623058, 81.726562</Position>
                </HpTorpedo06>
                <HpTorpedo07>
                   <Axis type="Vector">0, 1, 0</Axis>

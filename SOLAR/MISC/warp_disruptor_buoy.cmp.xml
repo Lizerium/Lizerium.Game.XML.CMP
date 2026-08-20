@@ -165,7 +165,7 @@
             </HpRightLane>
          </Fixed>
       </Hardpoints>
-      <VMeshWire include="warp_disruptor_buoy_cmp\warpbuoy1.vwd.xml"/>
+      <VMeshWire include="warp_disruptor_buoy_cmp\VMeshWire4.vwd.xml"/>
       <MultiLevel>
          <Level0>
             <VMeshPart>

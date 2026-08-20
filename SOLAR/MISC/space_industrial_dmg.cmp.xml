@@ -76,7 +76,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Aug  8 2002 17:09:32</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Aug 8 2002 17:09:32</Exporter_Version>
       <industrial_dmg_lod1020809105404.3db>
          <VMeshWire include="space_industrial_dmg_cmp\industrial_dmg_lod1.vwd.xml"/>
          <MultiLevel>

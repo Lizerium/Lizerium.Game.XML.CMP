@@ -677,7 +677,7 @@
             </Switch2>
          </MultiLevel>
       </dock3_poly_lod1021120115321.3db>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Main_lod1021120115321.3db>
          <Hardpoints>
             <Fixed>
@@ -1372,7 +1372,7 @@
                        0.3090167900,   0.9510566000,  14.901161e-09,
                        0.9510566000,  -0.3090167900,  288.70997e-09
                   </Orientation>
-                  <Position type="Vector">242.51563, 6.4874077, -96.336563</Position>
+                  <Position type="Vector">242.51562, 6.4874077, -96.336563</Position>
                </HpTurret_S1_08>
                <HpTurret_S2_01>
                   <Axis type="Vector">0, 1, 0</Axis>

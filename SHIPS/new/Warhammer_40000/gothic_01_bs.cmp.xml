@@ -338,7 +338,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">20.414063, -4.8658447, -58.25177</Position>
+                  <Position type="Vector">20.414062, -4.8658447, -58.25177</Position>
                </HpDocklight02>
                <HpRunningLight06>
                   <Orientation type="Matrix">

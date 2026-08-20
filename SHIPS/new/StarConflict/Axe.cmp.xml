@@ -90,7 +90,7 @@
                   </Orientation>
                </HpEngine02>
                <HpEngine03>
-                  <Position type="Vector">17.726563, -2.7362659, 44.312405</Position>
+                  <Position type="Vector">17.726562, -2.7362659, 44.312405</Position>
                   <Orientation type="Matrix">
                        1.0000000000,   0.0000000000,  -0.0000000000,
                        0.0000000000,   1.0000000000,  -0.0000000000,

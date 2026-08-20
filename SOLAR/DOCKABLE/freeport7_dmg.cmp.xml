@@ -989,7 +989,7 @@
             </Switch2>
          </MultiLevel>
       </dmg_sect07_lod1021212185821.3db>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <hab01_lod1021212185821.3db>
          <VMeshWire include="freeport7_dmg_cmp\hab01_lod1.vwd.xml"/>
          <MultiLevel>

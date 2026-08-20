@@ -897,7 +897,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-288.82813, 0.100087, -816.89215</Position>
+                  <Position type="Vector">-288.82812, 0.100087, -816.89215</Position>
                </HpGun01>
                <HpGun02>
                   <Axis type="Vector">0, 1, 0</Axis>

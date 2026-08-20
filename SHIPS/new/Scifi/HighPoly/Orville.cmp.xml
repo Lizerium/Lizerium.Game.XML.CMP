@@ -770,7 +770,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-0.012695313, 16.539734, 49.149384</Position>
+                  <Position type="Vector">-0.012695312, 16.539734, 49.149384</Position>
                </HpA01>
                <HpA02>
                   <Axis type="Vector">0, 1, 0</Axis>
@@ -839,7 +839,7 @@
                       87.422777e-09,  -1.0000000000,  -0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-0.38948059, -0.11914063, 56.093872</Position>
+                  <Position type="Vector">-0.38948059, -0.11914062, 56.093872</Position>
                </HpThruster01>
                <HpEngine07>
                   <Orientation type="Matrix">

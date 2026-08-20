@@ -505,7 +505,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.9999998800,   0.0000000000,  59.604645e-09
                   </Orientation>
-                  <Position type="Vector">549.01563, 10.074219, 0.14343262</Position>
+                  <Position type="Vector">549.01562, 10.074219, 0.14343262</Position>
                </HpTurret03>
                <HpTurret04>
                   <Axis type="Vector">0, 1, 0</Axis>

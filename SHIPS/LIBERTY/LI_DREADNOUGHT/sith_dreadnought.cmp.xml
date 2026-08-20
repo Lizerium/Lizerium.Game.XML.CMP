@@ -729,7 +729,7 @@
             <Object_name name="Object name" type="text">Root</Object_name>
          </Root>
       </Cmpnd>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Leaf01_d1_lod1021108124158sh.3db>
          <VMeshWire include="sith_dreadnought_cmp\Leaf01_d1_lod1021108124158sh.vwd.xml"/>
          <MultiLevel>

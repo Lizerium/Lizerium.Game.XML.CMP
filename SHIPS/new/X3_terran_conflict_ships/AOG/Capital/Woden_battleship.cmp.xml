@@ -486,7 +486,7 @@
                       87.422777e-09,  -1.0000000000,  -0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">1.6765749, -26.789063, -242.88565</Position>
+                  <Position type="Vector">1.6765749, -26.789062, -242.88565</Position>
                </HpTorpedo01>
                <HpTurret19>
                   <Axis type="Vector">0, 1, 0</Axis>

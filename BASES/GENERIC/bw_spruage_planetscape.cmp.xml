@@ -5,15 +5,15 @@
       <VMeshLibrary>
          <data.bases.generic.bw_spruage_planetscape.lod0-112.vms include="bw_spruage_planetscape_cmp\lod0-112.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
             <File_name name="File name" type="text">Spruage_Terrain021125173132.3db</File_name>
             <Index type="int">0</Index>
          </Root>
-         <Part_Spruage_Tunnel_ name="Part_Spruage Tunnel ">
-            <Object_name name="Object name" type="text">Spruage Tunnel </Object_name>
+         <Part_Spruage_Tunnel_ name="Part_Spruage Tunnel">
+            <Object_name name="Object name" type="text">Spruage Tunnel</Object_name>
             <File_name name="File name" type="text">Spruage Tunnel 021125173132.3db</File_name>
             <Index type="int">1</Index>
          </Part_Spruage_Tunnel_>
@@ -66,7 +66,7 @@
             <Fix type="Fix" count="4">
                <part>
                   <!-- parent      --> "Root",
-                  <!-- child       --> "Spruage Tunnel ",
+                  <!-- child       --> "Spruage Tunnel",
                   <!-- position    --> 8.7340746, 99.170303, -216.89417,
                   <!-- orientation -->   1.0000000000,  28.944475e-09, -69.833241e-09,
                                         69.833249e-09, -358.85370e-09,   1.0000000000,
@@ -320,7 +320,7 @@
             <TileRate1 type="float">1</TileRate1>
          </Pygar_Transiton_End_Corner_.tga021125173132>
          <Pygar_Transiton_Fade_.tga021125173132 name="Pygar Transiton Fade_.tga021125173132">
-            <Dt_name type="text">Sprauge  Transiton Fade_.tga021125173132</Dt_name>
+            <Dt_name type="text">Sprauge Transiton Fade_.tga021125173132</Dt_name>
             <Dm1_name type="text">bspraguedtl1</Dm1_name>
             <Dm0_name type="text">bspraguedtl1</Dm0_name>
             <Dm0_flags type="int">0x40</Dm0_flags>
@@ -331,7 +331,7 @@
             <TileRate1 type="float">1</TileRate1>
          </Pygar_Transiton_Fade_.tga021125173132>
          <Pygar_Transiton_End_.tga021125173132 name="Pygar Transiton End_.tga021125173132">
-            <Dt_name type="text">Sprauge  Transiton End.tga021125173132</Dt_name>
+            <Dt_name type="text">Sprauge Transiton End.tga021125173132</Dt_name>
             <Dm1_name type="text">bspraguedtl1</Dm1_name>
             <Dm0_name type="text">bspraguedtl1</Dm0_name>
             <Dm0_flags type="int">0x40</Dm0_flags>
@@ -859,10 +859,10 @@
          <Spruage__Grass.tga021125173132 name="Spruage_ Grass.tga021125173132">
             <MIPS type="file" filename="bw_spruage_planetscape_cmp\Spruage_ Grass.dds"/>
          </Spruage__Grass.tga021125173132>
-         <Sprauge__Transiton_End.tga021125173132 name="Sprauge  Transiton End.tga021125173132">
+         <Sprauge__Transiton_End.tga021125173132 name="Sprauge Transiton End.tga021125173132">
             <MIPS type="file" filename="bw_spruage_planetscape_cmp\Sprauge  Transiton End.dds"/>
          </Sprauge__Transiton_End.tga021125173132>
-         <Sprauge__Transiton_Fade_.tga021125173132 name="Sprauge  Transiton Fade_.tga021125173132">
+         <Sprauge__Transiton_Fade_.tga021125173132 name="Sprauge Transiton Fade_.tga021125173132">
             <MIPS type="file" filename="bw_spruage_planetscape_cmp\Sprauge  Transiton Fade_.dds"/>
          </Sprauge__Transiton_Fade_.tga021125173132>
          <Sprauge_Transiton_End_Corner_.tga021125173132 name="Sprauge Transiton End Corner_.tga021125173132">

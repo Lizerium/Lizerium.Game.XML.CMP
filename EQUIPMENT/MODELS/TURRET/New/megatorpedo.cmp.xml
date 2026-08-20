@@ -22,7 +22,7 @@
             <!-- radius       --> 160
          </VMeshRef>
       </VMeshPart>
-      <VMeshWire include="megatorpedo_cmp\doranda_turret_lod1.vwd.xml"/>
+      <VMeshWire include="megatorpedo_cmp\VMeshWire3.vwd.xml"/>
       <Hardpoints>
          <Fixed>
             <HpRunningLight01>

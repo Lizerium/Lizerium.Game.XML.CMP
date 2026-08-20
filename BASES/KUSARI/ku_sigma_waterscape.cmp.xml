@@ -6,7 +6,7 @@
          <data.bases.kusari.ku_sigma_waterscape.lod0-112.vms include="ku_sigma_waterscape_cmp\lod0-112.vms.xml"/>
          <data.bases.kusari.ku_sigma_waterscape.lod0-212.vms include="ku_sigma_waterscape_cmp\lod0-212.vms.xml"/>
       </VMeshLibrary>
-      <Exporter_Version name="Exporter Version" type="text">Nov  5 2002 11:41:55</Exporter_Version>
+      <Exporter_Version name="Exporter Version" type="text">Nov 5 2002 11:41:55</Exporter_Version>
       <Cmpnd>
          <Root>
             <Object_name name="Object name" type="text">Root</Object_name>
@@ -830,7 +830,7 @@
                             2.2385254000
                             0.3248519300
                             0.1554793700
-                            1.5507813000
+                            1.5507812000
                             3.7526927000
                             6.0023494000
                             7.5408854000

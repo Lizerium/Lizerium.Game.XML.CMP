@@ -264,7 +264,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">-1250.2813, 415.25, -992.375</Position>
+                  <Position type="Vector">-1250.2812, 415.25, -992.375</Position>
                </HpFX08>
                <HpFX10>
                   <Orientation type="Matrix">
@@ -402,7 +402,7 @@
                        0.0000000000,   1.0000000000,   0.0000000000,
                        0.0000000000,   0.0000000000,   1.0000000000
                   </Orientation>
-                  <Position type="Vector">1293.1563, 418.75, -988.25</Position>
+                  <Position type="Vector">1293.1562, 418.75, -988.25</Position>
                </HpFX09>
                <HpFX12>
                   <Orientation type="Matrix">
